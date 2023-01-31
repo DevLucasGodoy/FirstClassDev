@@ -4535,6 +4535,18 @@ p.form-message.error.form-message.error {
   background-color: #005ad5;
 }
 
+.contact-info .single-contact-info.contact-color-4 .contact-info-icon i {
+  background-color: #3b5998;
+}
+
+.contact-info .single-contact-info.contact-color-5 .contact-info-icon i {
+  background-color: #34af23;
+}
+
+.contact-info .single-contact-info.contact-color-6 .contact-info-icon i {
+  background-color: #E1306C;
+}
+
 .contact-wrapper .contact-title {
   font-size: 32px;
   font-weight: 700;
